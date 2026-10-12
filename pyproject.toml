@@ -1,0 +1,7 @@
+[project]
+name = "genpark-agent-context-pruner-and-token-budget-compressor-skill"
+version = "1.0.0"
+description = "Prunes historical agent context, truncates verbose tool outputs, and compresses conversational trajectories within strict token budget limits"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
